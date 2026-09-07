@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Game profile persistence (local runtime save)
+zono_master_profile.json
+zono_profile.json
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
